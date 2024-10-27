@@ -1,0 +1,28 @@
+.attraction_wrapper{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: black;
+}
+
+.items{
+    margin: 1rem ;
+    max-width: 24rem;
+    min-height: 40rem;
+    background-color: aqua;
+    padding: 2rem;
+    border-radius: 20px;
+}
+
+img{
+    width: 20rem;
+    height: 10rem;
+    object-fit: cover;
+    margin-bottom: 1rem;
+}
+
+h2{
+    margin: 1rem;
+    font-size: 2rem;
+}

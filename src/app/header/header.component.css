@@ -1,0 +1,33 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: green;
+    padding: 0.5rem;
+}
+
+.logo{
+    width: 6rem;
+    height: 6rem;
+}
+
+.title{
+    font-size: 3rem;
+    margin-left: 9rem;
+}
+
+a{
+    color: white;
+    margin-right: 2rem;
+    font-size: 1.3rem;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+li{
+    list-style: none;
+}
+
